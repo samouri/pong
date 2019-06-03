@@ -1,0 +1,28 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "pingy ponig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriteGames/pong.git"
+  },
+  "keywords": [
+    "pong",
+    "javascript",
+    "js",
+    "es6"
+  ],
+  "author": "@samouri and @jaredlmayer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FriteGames/pong/issues"
+  },
+  "homepage": "https://github.com/FriteGames/pong#readme",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
